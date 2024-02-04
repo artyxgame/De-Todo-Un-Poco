@@ -1,0 +1,25 @@
+body.pelis {
+    background-color: black;
+}
+header.pelis {
+    text-align: center;
+    color: rgb(119, 172, 20);
+}
+table.pelis {
+    border: blue 2px solid;
+    color: white;
+}
+td.pelis1 {
+    text-align: center;
+    border: red 2px solid;
+}
+td.pelis2 {
+    border: white 2px solid;
+    color: white;
+}
+td.a {
+    color: black;
+}
+footer.pelis {
+    text-align: center;
+}

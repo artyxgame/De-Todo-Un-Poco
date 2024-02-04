@@ -1,0 +1,26 @@
+body.series {
+    background-color: black;
+}
+header.series {
+    text-align: center;
+    color: rgb(119, 172, 20);
+}
+table.series {
+    position: relative;
+    left: 3px;
+    color: white;
+    border: blue 2px solid;
+}
+td.series1 {
+    text-align: center;
+    border: red 2px solid;
+}
+td.series2 {
+    border: white 2px solid;
+}
+td.a {
+    color: black;
+}
+footer.series {
+    text-align: center;
+}

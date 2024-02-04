@@ -1,0 +1,27 @@
+body.temporadas {
+    background-color: black;
+}
+header.temporadas {
+    text-align: center;
+    color: rgb(255, 123, 0)
+}
+table.temporadas {
+    position: relative;
+    left: 40px;
+    text-align: center;
+    color: white;
+    border: blue 2px solid;
+}
+td.temporadas1 {
+    text-align: center;
+    border: red 2px solid;
+}
+td.temporadas2 {
+    border: white 2px solid;
+}
+td.a {
+    color: black;
+}
+footer.temporadas {
+    text-align: center;
+}
