@@ -1,0 +1,65 @@
+body.index {
+    background-color: black;
+}
+header.index {
+    text-align: center;
+    color: white;
+}
+p.index1 {
+    text-align: center;
+}
+/* -------- */
+body.inicio {
+    background-color: black;
+}
+header.inicio {
+    text-align: center;
+    color: red;
+}
+p.pelis1 {
+    color: white;
+    position: relative;
+    left: 30px;
+}
+table.inicio {
+    position: relative;
+    left: 3px;
+    text-align: center;
+    color: white;
+    border: blue 2px solid;
+}
+td.inicio1 {
+    text-align: center;
+    border: red 2px solid;
+}
+td.inicio2 {
+    border: white 2px solid;
+}
+td.a {
+    color: black;
+}
+footer.inicio {
+    text-align: center;
+}
+
+/* ----------- */
+
+#search-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #search-input {
+    padding: 10px;
+    width: 200px;
+    font-size: 16px;
+  }
+  
+  #search-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
